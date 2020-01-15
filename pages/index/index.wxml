@@ -1,7 +1,10 @@
 <!--index.wxml-->
-<view class="nav">
+<!-- <view class="nav">
   <view class="item">項目</view>
   <view class="item">文件</view>
   <view class="item">編輯</view>
   <view class="item">工具</view>
+</view> -->
+<view class="searchInput">
+  <view class="searchContent">搜索</view>
 </view>

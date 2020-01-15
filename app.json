@@ -5,11 +5,12 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#00b26a",
+    "navigationBarBackgroundColor": "#EA4350",
     "navigationBarTitleText": "导航",
     "navigationBarTextStyle": "black"
   },
   "tabBar": {
+    "selectedColor": "#E03440",
     "list": [
       {
         "pagePath": "pages/index/index",
